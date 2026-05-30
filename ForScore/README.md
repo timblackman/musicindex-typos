@@ -18,9 +18,10 @@ In most of these, the first line lists the column values used in the file.  You 
 The Book PDF Name is not needed by ForScore.  However, in indexes created, I attempt to use the iGigBook pdf link name.  This makes the correlation a little clearer for those coming over from iGigBook.
 
 ### Books vs Index ###
-Currently All Indexes are for **C** books only.
+Indexes are for **C** books unless noted.
 
 * 557 Standards	- 557Standards.csv
+* Bill Evans Fakebook - billevans.csv
 * new bob book - free downloadable PDF from https://www.jstreetjazz.com/FakeBooks/The_New_Bob_Book.pdf (and possibly other locations) built by Bob Roetker. Visit him at https://bobroetkerjazzguitar.yolasite.com.
 * Colorado Cookbook	- Colorado.csv
 * Digital Standards Songbook (Sher) - DigitalStandardsSongbookC.csv
