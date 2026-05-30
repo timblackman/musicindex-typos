@@ -22,35 +22,41 @@ Indexes are for **C** books unless noted.
 
 * 557 Standards	- 557Standards.csv
 * Bill Evans Fakebook - billevans.csv
-* new bob book - free downloadable PDF from https://www.jstreetjazz.com/FakeBooks/The_New_Bob_Book.pdf (and possibly other locations) built by Bob Roetker. Visit him at https://bobroetkerjazzguitar.yolasite.com.
-* Colorado Cookbook	- Colorado.csv
+* A Charlie Brown Christmas - cbxmas.csv
+* Colorado Cookbook - Colorado.csv
 * Digital Standards Songbook (Sher) - DigitalStandardsSongbookC.csv
+* 24 Gypsy Jazz Standards - djangoinjune.csv
 * Firehouse Jazz Band  - FirehouseJazzBand.csv
 * Jazz LTD - JazzLTD.csv
 * The Latin Real Book (Sher) - LatinRealBook.csv (better)
 * The Latin Real Book (Sher) - LatinRealBkC.csv
+* new bob book - New-Bob-Book-C-index.csv - Free downloadable PDF from https://www.jstreetjazz.com/FakeBooks/The_New_Bob_Book.pdf (and possibly other locations) built by Bob Roetker. Visit him at https://bobroetkerjazzguitar.yolasite.com.
+* The New Real Book 1 (Bb) (Sher) - newrbk1Bb.csv
 * The New Real Book 1 (Sher) - newrbk1C.csv
+* The New Real Book 2 (Bb) (Sher) - newrbk2Bb.csv
 * The New Real Book 2 (Sher) - newrbk2C.csv
+* The New Real Book 3 (Bb) (Sher) - newrbk3Bb.csv
 * The New Real Book 3 (Sher) - newrbk3C.csv
 * New Digital Real Book (Sher) - nrealbk1d.csv
+* Charlie Parker Omnibook (bass clef)- parkeromnibookbc.csv
+* Real Book 1 v6 (Bb) (Hal Leonard) - realbk1h_Bb.csv
 * Real Book 1 v6 (Hal Leonard) - realbk1h.csv
-* Real Book 2 v6 (Hal Leonard) - realbk2h.csv
-* Real Book 3 v6 (Hal Leonard) - realbk3h.csv
+* Real Book 2 v2 (Bb) (Hal Leonard) - realbk2h_Bb.csv
+* Real Book 2 v2 (Hal Leonard) - realbk2h.csv
+* Real Book 3 v2 (Bb) (Hal Leonard) - realbk3h_Bb.csv
+* Real Book 3 v2 (Hal Leonard) - realbk3h.csv
 * Real Book 4 v6 (Hal Leonard) - RealBook4.csv
 * Real Book 4 (scanned) - realbk4h.csv (page offset has to be +300 due to pdf wierdness)
 * Old Real Book 1 - realbk1.csv
 * Old Real Book 2 - realbk2.csv
 * Old Real Book 3 - realbk3.csv
+* Christmas Real Book - realxmasC.csv
+* 101 Sinatra Songs - sinatra101C.csv
 * The Standards Real Book (Sher) - standardsrbkC.csv
   * NOTE: This is for a scanned copy with no images
-* A Charlie Brown Christmas - cbxmas.csv
-* Christmas Real Book - realxmasC.csv
-* 24 Gypsy Jazz Standards - djangoinjune.csv
-* Charlie Parker Omnibook (bass clef)- parkeromnibookbc.csv
-* 101 Sinatra Songs - sinatra101C.csv
+* Thelonious Monk's Compositions - thelmnkcp.csv
+* Thelonious Monk Fake Book - thelmnkfb.csv
 * Vocal Real Book - VocalRealBook.csv
-
-
 
 ### Workflow ###
 
